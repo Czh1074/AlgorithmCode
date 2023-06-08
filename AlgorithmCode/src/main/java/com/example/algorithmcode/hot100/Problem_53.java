@@ -5,7 +5,7 @@ package com.example.algorithmcode.hot100;
  * @Author: ChenZhiHui
  * @DateTime: 2023/6/7 20:24
  **/
-public class Probelm_53 {
+public class Problem_53 {
 
     public static int maxSubArray(int[] nums) {
         if (nums.length == 1) {
